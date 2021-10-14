@@ -67,6 +67,7 @@ export default function Home() {
       setVideos(vidArr);
     });
   }
+  // do nothing
 
   function cardDetail(video: Item) {
     localStorage.setItem("videoLocal", JSON.stringify(video));
