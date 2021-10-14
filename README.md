@@ -4,11 +4,10 @@ In this project the goal is to create a desktop application which fulfil the nee
 
 ## Languages and Technologies Used in this Project
 
-| Language / Technology  | :mag_right:  | % |
+| Language / Technology  | % |
 | :------------ |:---------------:| -----:|
-| React      | :arrow_right: | 90 |
-| Javascript      | :arrow_right:       |   80 |
-| Css | :arrow_right:        |    70 |
+| React      | :arrow_right: | 95 |
+| TypeScript | :arrow_right:        |    90 |
 | Semantic UI | :arrow_right:        |    95 |
 
 ## Application Images
