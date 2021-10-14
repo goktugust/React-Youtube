@@ -1,10 +1,10 @@
 # React Youtube Project
 
-In this project the goal is to create a desktop application which fulfil the needs of a "Water Sale" program by using Java, SQLite and JFrame. Project aims to establish the communication between the Customer and the Seller.
+This is a simple youtube project with Youtube API. Videos can be faved and removed from faves. When a video is watched, watched video will automatically added the last watched videos on main screen.
 
 ## Languages and Technologies Used in this Project
 
-| Language / Technology  | % |
+| Language / Technology| ↔️  | % |
 | :------------ |:---------------:| -----:|
 | React      | :arrow_right: | 95 |
 | TypeScript | :arrow_right:        |    90 |
